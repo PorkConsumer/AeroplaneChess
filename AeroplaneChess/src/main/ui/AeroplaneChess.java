@@ -1,8 +1,8 @@
-package main.ui;
+package ui;
 
-import main.model.Airplane;
-import main.model.Board;
-import main.model.Dice;
+import model.Airplane;
+import model.Board;
+import model.Dice;
 
 public class AeroplaneChess {
 
